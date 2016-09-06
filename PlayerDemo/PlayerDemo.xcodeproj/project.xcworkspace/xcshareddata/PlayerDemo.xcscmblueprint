@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7AAA94B7BC4DC6402610A1D2A99F83B6D417670E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7AAA94B7BC4DC6402610A1D2A99F83B6D417670E" : 0,
+    "19E0E8A4AF8920C805E18DC928160947536F8156" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4E597D2E-B556-4533-A56E-38978D6AD66F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7AAA94B7BC4DC6402610A1D2A99F83B6D417670E" : "iOS_20160905\/",
+    "19E0E8A4AF8920C805E18DC928160947536F8156" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PlayerDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PlayerDemo\/PlayerDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hwf452\/-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "19E0E8A4AF8920C805E18DC928160947536F8156"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hwf452\/ios_20160905.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7AAA94B7BC4DC6402610A1D2A99F83B6D417670E"
+    }
+  ]
+}
